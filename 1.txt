@@ -1,2 +1,3 @@
 this is a text
 this is a text2
+合并错误测试master
